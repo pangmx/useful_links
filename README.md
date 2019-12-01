@@ -5,3 +5,6 @@ Links to web resources that are useful for development project reference
  
  Springboot - Common Application properties
  https://docs.spring.io/spring-boot/docs/current/reference/html/appendix-application-properties.html#core-properties
+
+in28minutes microservice course repo
+https://github.com/in28minutes/spring-microservices
