@@ -17,3 +17,7 @@ http://xunitpatterns.com/
 
 Maven:
 Good reference link to using revision placeholder as properties and building for snapshot, releases and multi-module versioning.
+https://maven.apache.org/maven-ci-friendly.html
+
+Good reference to multi-module project setup with ${revision} placeholder and flatten-pom-plugin.
+https://github.com/springframeworkguru/mb2g-mm-maven/tree/flatten-plugin
