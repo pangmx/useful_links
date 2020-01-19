@@ -15,3 +15,5 @@ https://spring.io/guides/tutorials/react-and-spring-data-rest/
 Useful test patterns for tricky situations:
 http://xunitpatterns.com/
 
+Maven:
+Good reference link to using revision placeholder as properties and building for snapshot, releases and multi-module versioning.
