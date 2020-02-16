@@ -21,3 +21,7 @@ https://maven.apache.org/maven-ci-friendly.html
 
 Good reference to multi-module project setup with ${revision} placeholder and flatten-pom-plugin.
 https://github.com/springframeworkguru/mb2g-mm-maven/tree/flatten-plugin
+
+Good reference to BPMN 2/0 modeling symbols - Participants, Activities, Gateway, Events
+https://camunda.com/bpmn/reference/ 
+
