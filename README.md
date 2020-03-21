@@ -34,3 +34,7 @@ Jackson Json:
 Good reference to Json annotations usage: https://springframework.guru/jackson-annotations-json/
 
 
+OpenAPI specifications: https://github.com/OAI/OpenAPI-Specification
+JSON Schema: https://json-schema.org/specification.html
+
+
