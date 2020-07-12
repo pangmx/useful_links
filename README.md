@@ -6,6 +6,10 @@ Spring:
 Springboot - Common Application properties
 https://docs.spring.io/spring-boot/docs/current/reference/html/appendix-application-properties.html#core-properties
 
+JPA Inheritance:
+https://www.baeldung.com/hibernate-inheritance
+
+
 in28minutes microservice course repo
 https://github.com/in28minutes/spring-microservices
 
